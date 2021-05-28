@@ -24,5 +24,15 @@
   "dependencies": {
     "@stencil/core": "2.5.2"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCopceski/my-test-stencil-library.git"
+  },
+  "author": "Bruno Copceski",
+  "bugs": {
+    "url": "https://github.com/TheCopceski/my-test-stencil-library/issues"
+  },
+  "homepage": "https://github.com/TheCopceski/my-test-stencil-library#readme"
 }
